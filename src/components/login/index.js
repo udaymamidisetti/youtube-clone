@@ -127,6 +127,7 @@ class login extends Component {
                   </div>
                   <ErrorMsg>{isError && `* ${errorMsg}`}</ErrorMsg>
                 </Form>
+                <p>Username:rahul && password:rahul@2021</p>
               </LoginCardContainer>
             </LoginContainer>
           )
